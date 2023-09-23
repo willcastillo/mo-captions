@@ -13,7 +13,7 @@ Existen múltiples formas de utilizar este recurso y cada una dependerá del tip
 - Si sabes usar git, probablemente no necesites esta ayuda. Have fun. Si no es así...
 - Primero tienes que bajar o hacer _download_ del release más reciente de este proyecto en el o los idiomas que desees utilizar. Eso lo haces accediendo a la sección [**Releases**](https://github.com/willcastillo/mo-captions/releases) de este proyecto y luego haciendo _click_ en el archivo **mo.zip**.
 - Una vez lo tengas en tu dispositivo, tendrás que utilizar alguna herramienta de descompresión para extrar los archivos del comprimido que bajaste. Te recomiendo extrarlo en su ubicación final. Probablemente puedas reemplazar los archivos de alguna versión anterior si la tuvieses, aunque recomiendo hacerlo sobre un directorio vacio.
-- Abre el archivo index.hhtml y comienza a usarlo!
+- Abre el archivo index.html y comienza a usarlo!
 - Si utilizas algún programa de indexación o búsqueda de texto completo (Qiqaa, DocFetcherPro...), tendrás que indicarle este directorio como una nueva fuente de datos.
 
 ## Lenguajes Soportados
